@@ -1,11 +1,11 @@
-# Fichiers de cache
+# Cache files
 *.json
 !*sample.json
 
-# Fichiers Python
+# Python files
 __pycache__/
 *.pyc
 
-# Fichiers OS
+# OS files
 .DS_Store
 Thumbs.db
